@@ -4,7 +4,6 @@ My Public Files Hackintosh File. Original from alfinauzikri.
 # My Spesisfication :
 
 Processor : Intel Core i3 6006U 2.0 Ghz (Skylake)
-
 IGPU : Intel HD Graphics 520
 EGPU : Nvidia 920MX
 RAM : 4GB DDR4 2133MHz (Disabled)
