@@ -1,1 +1,2 @@
 You need to have installer first
+Full tutorial here : https://techhowdy.com/guide-to-install-hackintosh-macos-mojave-10-14/
